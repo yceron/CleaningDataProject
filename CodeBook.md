@@ -9,7 +9,7 @@ Subsequently, the body linear acceleration and angular velocity were derived in 
 
 Finally a Fast Fourier Transform (FFT) was applied to some of these signals producing BodyAcc-XYZ, BodyAccJerk-XYZ, BodyGyro-XYZ, BodyAccJerkMag, BodyGyroMag, BodyGyroJerkMag. 
 
-This dataset contains the mean for each of the measurements grouped by subject and activity. 
+This dataset contains the mean for each of the mean and standard deviations for the measurements grouped by subject and activity. 
 
 These are the variables contained in the output dataset.
 
