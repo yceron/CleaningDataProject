@@ -9,7 +9,7 @@ Subsequently, the body linear acceleration and angular velocity were derived in 
 
 Finally a Fast Fourier Transform (FFT) was applied to some of these signals producing BodyAcc-XYZ, BodyAccJerk-XYZ, BodyGyro-XYZ, BodyAccJerkMag, BodyGyroMag, BodyGyroJerkMag. 
 
-This dataset contains the mean for each of the mean and standard deviations for the measurements grouped by subject and activity. 
+This dataset contains the average for each of the mean and standard deviations for the measurements provided in the original dataset grouped by subject and activity. 
 
 These are the variables contained in the output dataset.
 
@@ -27,7 +27,7 @@ The activity the subject was doing. It can be one of the following values:
   - Laying
   
   
-The following variables contain the mean for each of these measurements by subject and activity. 
+The following variables contain the average for each of these measurements by subject and activity. 
 
 ###Time domain signals
 
