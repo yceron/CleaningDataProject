@@ -17,5 +17,5 @@ This script makes the following assumptions:
   * You the script is located on the same directory as the data.
   * You will change the working directory to the location of the script and data
 
-In order to get the tidy data first change your working directory to where the data and the script are, then run the script in the same. It will save the results to a file called tidyData.csv
+In order to get the tidy data first change your working directory to where the data and the script are, then run the script in the same. It will save the results to a file called tidyData.txt
 
