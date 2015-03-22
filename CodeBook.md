@@ -7,6 +7,8 @@ These are the variables contained in the output dataset.
 
 Subject
 The subject Id.
+
+
 Activity
 The activity the subject was doing. It can be one of the following values:
   - Walking
@@ -20,11 +22,17 @@ The activity the subject was doing. It can be one of the following values:
 The following variables contain the mean for each of these measurements by subject and activity. 
 
 ###Time domain signals
+
 TimeBodyAccMeanX
+
 TimeBodyAccMeanY
+
 TimeBodyAccMeanZ
+
 TimeBodyAccStdDevX
+
 TimeBodyAccStdDevY
+
 TimeBodyAccStdDevZ
 TimeGravityAccMeanX
 TimeGravityAccMeanY
