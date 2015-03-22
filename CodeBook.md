@@ -5,11 +5,11 @@
 
 These are the variables contained in the output dataset.
 
-Subject
+Subject:
 The subject Id.
 
 
-Activity
+Activity:
 The activity the subject was doing. It can be one of the following values:
   - Walking
   - Walking Upstairs
