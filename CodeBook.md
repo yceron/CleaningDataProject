@@ -23,76 +23,71 @@ The following variables contain the mean for each of these measurements by subje
 
 ###Time domain signals
 
-TimeBodyAccMeanX
-
-TimeBodyAccMeanY
-
-TimeBodyAccMeanZ
-
-TimeBodyAccStdDevX
-
-TimeBodyAccStdDevY
-
-TimeBodyAccStdDevZ
-TimeGravityAccMeanX
-TimeGravityAccMeanY
-TimeGravityAccMeanZ
-TimeGravityAccStdDevX
-TimeGravityAccStdDevY
-TimeGravityAccStdDevZ
-TimeBodyAccJerkMeanX
-TimeBodyAccJerkMeanY
-TimeBodyAccJerkMeanZ
-TimeBodyAccJerkStdDevX
-TimeBodyAccJerkStdDevY
-TimeBodyAccJerkStdDevZ
-TimeBodyGyroMeanX
-TimeBodyGyroMeanY
-TimeBodyGyroMeanZ
-TimeBodyGyroStdDevX
-TimeBodyGyroStdDevY
-TimeBodyGyroStdDevZ
-TimeBodyGyroJerkMeanX
-TimeBodyGyroJerkMeanY
-TimeBodyGyroJerkMeanZ
-TimeBodyGyroJerkStdDevX
-TimeBodyGyroJerkStdDevY
-TimeBodyGyroJerkStdDevZ
-TimeBodyAccMagMean
-TimeBodyAccMagStdDev
-TimeGravityAccMagMean
-TimeGravityAccMagStdDev
-TimeBodyAccJerkMagMean
-TimeBodyAccJerkMagStdDev
-TimeBodyGyroMagMean
-TimeBodyGyroMagStdDev
-TimeBodyGyroJerkMagMean
-TimeBodyGyroJerkMagStdDev
+- TimeBodyAccMeanX
+- TimeBodyAccMeanY
+- TimeBodyAccMeanZ
+- TimeBodyAccStdDevX
+- TimeBodyAccStdDevY
+- TimeBodyAccStdDevZ
+- TimeGravityAccMeanX
+- TimeGravityAccMeanY
+- TimeGravityAccMeanZ
+- TimeGravityAccStdDevX
+- TimeGravityAccStdDevY
+- TimeGravityAccStdDevZ
+- TimeBodyAccJerkMeanX
+- TimeBodyAccJerkMeanY
+- TimeBodyAccJerkMeanZ
+- TimeBodyAccJerkStdDevX
+- TimeBodyAccJerkStdDevY
+- TimeBodyAccJerkStdDevZ
+- TimeBodyGyroMeanX
+- TimeBodyGyroMeanY
+- TimeBodyGyroMeanZ
+- TimeBodyGyroStdDevX
+- TimeBodyGyroStdDevY
+- TimeBodyGyroStdDevZ
+- TimeBodyGyroJerkMeanX
+- TimeBodyGyroJerkMeanY
+- TimeBodyGyroJerkMeanZ
+- TimeBodyGyroJerkStdDevX
+- TimeBodyGyroJerkStdDevY
+- TimeBodyGyroJerkStdDevZ
+- TimeBodyAccMagMean
+- TimeBodyAccMagStdDev
+- TimeGravityAccMagMean
+- TimeGravityAccMagStdDev
+- TimeBodyAccJerkMagMean
+- TimeBodyAccJerkMagStdDev
+- TimeBodyGyroMagMean
+- TimeBodyGyroMagStdDev
+- TimeBodyGyroJerkMagMean
+- TimeBodyGyroJerkMagStdDev
 
 ###Frequency domain signals
-FrequencyBodyAccMeanX
-FrequencyBodyAccMeanY
-FrequencyBodyAccMeanZ
-FrequencyBodyAccStdDevX
-FrequencyBodyAccStdDevY
-FrequencyBodyAccStdDevZ
-FrequencyBodyAccJerkMeanX
-FrequencyBodyAccJerkMeanY
-FrequencyBodyAccJerkMeanZ
-FrequencyBodyAccJerkStdDevX
-FrequencyBodyAccJerkStdDevY
-FrequencyBodyAccJerkStdDevZ
-FrequencyBodyGyroMeanX
-FrequencyBodyGyroMeanY
-FrequencyBodyGyroMeanZ
-FrequencyBodyGyroStdDevX
-FrequencyBodyGyroStdDevY
-FrequencyBodyGyroStdDevZ
-FrequencyBodyAccMagMean
-FrequencyBodyAccMagStdDev
-FrequencyBodyAccJerkMagMean
-FrequencyBodyAccJerkMagStdDev
-FrequencyBodyGyroMagMean
-FrequencyBodyGyroMagStdDev
-FrequencyBodyGyroJerkMagMean
-FrequencyBodyGyroJerkMagStdDev
+- FrequencyBodyAccMeanX
+- FrequencyBodyAccMeanY
+- FrequencyBodyAccMeanZ
+- FrequencyBodyAccStdDevX
+- FrequencyBodyAccStdDevY
+- FrequencyBodyAccStdDevZ
+- FrequencyBodyAccJerkMeanX
+- FrequencyBodyAccJerkMeanY
+- FrequencyBodyAccJerkMeanZ
+- FrequencyBodyAccJerkStdDevX
+- FrequencyBodyAccJerkStdDevY
+- FrequencyBodyAccJerkStdDevZ
+- FrequencyBodyGyroMeanX
+- FrequencyBodyGyroMeanY
+- FrequencyBodyGyroMeanZ
+- FrequencyBodyGyroStdDevX
+- FrequencyBodyGyroStdDevY
+- FrequencyBodyGyroStdDevZ
+- FrequencyBodyAccMagMean
+- FrequencyBodyAccMagStdDev
+- FrequencyBodyAccJerkMagMean
+- FrequencyBodyAccJerkMagStdDev
+- FrequencyBodyGyroMagMean
+- FrequencyBodyGyroMagStdDev
+- FrequencyBodyGyroJerkMagMean
+- FrequencyBodyGyroJerkMagStdDev
