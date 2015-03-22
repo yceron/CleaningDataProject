@@ -24,13 +24,9 @@ The following variables contain the mean for each of these measurements by subje
 ###Time domain signals
 
 TimeBodyAccMeanX
-
 TimeBodyAccMeanY
-
 TimeBodyAccMeanZ
-
 TimeBodyAccStdDevX
-
 TimeBodyAccStdDevY
 
 TimeBodyAccStdDevZ
